@@ -1,1 +1,7 @@
+This is the executable of RSAUtil ransomware written in Delphi.
+
+ONLY TEST IT ON A VIRTUAL ENVIRONMENT.
+
 helppme@india.com.ID68550433
+
+11/60 detection rate on virus total as of 05-05-2017
